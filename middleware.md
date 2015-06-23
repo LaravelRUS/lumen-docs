@@ -1,7 +1,7 @@
 # HTTP посредники (Middleware)
 
 - [Введение](#introduction)
-- [Спименение посредников](#defining-middleware)
+- [Применение посредников](#defining-middleware)
 - [Регистрация посредников](#registering-middleware)
 - [Завершающие посредники](#terminable-middleware)
 
